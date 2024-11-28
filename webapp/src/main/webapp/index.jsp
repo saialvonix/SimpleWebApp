@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Flipkart shopping Sai </title>
+    <title>Flipkart shopping website Sai </title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
